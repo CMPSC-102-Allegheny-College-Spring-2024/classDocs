@@ -31,13 +31,13 @@ Email: obonhamcarter@allegheny.edu
 
 ## Meeting Times
 
-M/W/F 10:00 AM - 10:50 AM
-1/16/2024 - 5/7/2024
-Alden Hall, 101 Lecture
+* M/W/F 10:00 AM - 10:50 AM
+* 1/16/2024 - 5/7/2024
+* Alden Hall, 101 Lecture
 
-M 2:30 PM - 4:20 PM
-1/16/2024 - 5/7/2024
-Alden Hall, 101 Lab
+* M 2:30 PM - 4:20 PM
+* 1/16/2024 - 5/7/2024
+* Alden Hall, 101 Lab
 
 ### Discord
 
