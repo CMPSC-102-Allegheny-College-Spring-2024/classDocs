@@ -6,7 +6,7 @@ This repository contains information about Discrete Structures, including the co
 
 - [SCHEDULE](#Schedule)
 - [Instructor](#Instructor)
-- [Meeting Times](#Meetings)
+- [Meeting Times](#meeting_times)
 - [Discord](#Discord)
 - [Course Calendar](#Calendar)
 - [`classDocs/`](#Classdocs)
