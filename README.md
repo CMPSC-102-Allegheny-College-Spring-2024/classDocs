@@ -131,7 +131,7 @@ All assignments will have a stated due date. The electronic version of the class
 
 ### Attendance
 
-It is mandatory for all students to attend the class and laboratory sessions. If you will  not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
+It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
 
 ### Extensions
 
@@ -148,32 +148,43 @@ If you should find yourself in difficult circumstances that significantly interf
 - [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
 - [Student Life](https://sites.allegheny.edu/studentlife/)
 
+### Late Submissions
+
+All assignments will have a stated due date and a late deadline (the latest date that an assignment will be accepted -- up to a week after the deadline). The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
+
+__Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. After that time, the lab will not be accepted.__
+
+__Please note, lab solutions will be discussed after the one week late submission deadline. Therefore, any submission of the assignments following that deadline will not be possible.__
+
+### Extensions
+
+Unless special arrangements are made with the course instructor, __no assignments will be accepted after the late deadline.__ If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a _valid_ reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
+
+The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
+
 ### Communication
 
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
 
 Additionally, the course website will be used to store the syllabus, course schedule and information about the `classDocs/` repository using the GitHub.  Your grades will be communicated to you by a Gradebook GitHub repository.
 
-### Gradebook Repository
-
-Grade will be diffused using GitHub. You will use a GitHub project link to access a document that the instructor will leave for you concerning your class grades. Please be sure to let the instructor know of any incorrect information in the grade book document.
-
 ### Bring your own computer to class
 
 The classrooms in the Department of Computer Science no longer provide machines for student use. You are to bring your own wifi-ready device to class to be able to follow along with course material. If the class is meeting online using Zoom, then please be sure that you machine is configured correctly to use these services to connect you to the class. As it is your responsibility to maintain your machine, please perform online research to determine how to configure your machine accordingly, or to install any necessary software to enable online meetings.
 
-During the semester, you will be told which software to install on your machine to be prepared for class. Some of the prominent software that we may be using include;
-
-- [Git and GiHub](https://github.com/): (a software development software system
-- [VSCode](https://code.visualstudio.com/download): (an editor)
-- [Docker](https://www.docker.com): a software container system
-- [Installing Docker](https://docs.docker.com/get-docker/)
-- [Basic tutorial from Docker](https://www.docker.com/101-tutorial)
-- [Play with Docker](https://labs.play-with-docker.com/)
+During the semester, you will be told which software to install on your machine to be prepared for class. Some of the prominent software that we may be using can be found at the following [resource](https://www.oliverbonhamcarter.com/resources/dataanalytics_resources/).
 
 ### Special Needs and Disability Services
 
 The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities.  Among other things, this legislation requires all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disability Services at 332-2898. Disability Services is part of the Learning Commons and is located in Pelletier Library. Please do this as soon as possible to ensure that approved accommodations are implemented in a timely fashion.
+
+Some of the resources on campus are listed below.
+
+- [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/counseling/)
+- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
+- [Student Accessibility and Support Services](https://sites.allegheny.edu/studentaccessibility/)
 
 ### Honor Code
 
@@ -184,6 +195,7 @@ _I hereby recognize and pledge to fulfill my responsibilities, as defined in the
 It is recognized that an important part of the learning process in any course, and particularly one in computer science, derives from thoughtful discussions with teachers and fellow students.  Such dialogue is encouraged. However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others and the student who produces assignments that are identical to, or merely variations on, someone else's work.  While it is acceptable for students in this class to discuss their programs, technical diagrams, proposals, paper reviews, presentations, and other items with their classmates or other individuals, deliverables that are nearly identical to the work of others will be taken as evidence of violating the Honor Code.
 
 More information about the code may be found at the [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/academic-honor-program/)
+
 
 ### Welcome to Computer Science 102
 
