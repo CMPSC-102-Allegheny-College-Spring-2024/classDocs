@@ -32,11 +32,11 @@ Email: obonhamcarter@allegheny.edu
 ## Meeting Times
 
 * M/W/F 10:00 AM - 10:50 AM
-* 1/16/2024 - 5/7/2024
+* 16 Jan 2024 - 7 May 2024
 * Alden Hall, 101 Lecture
 
 * M 2:30 PM - 4:20 PM
-* 1/16/2024 - 5/7/2024
+* 16 Jan 2024 - 7 May 2024
 * Alden Hall, 101 Lab
 
 ### Discord
@@ -68,74 +68,66 @@ Distribution Requirements: QR, SP
 
 Students of discrete structures should demonstrate the mastery of these learning objectives in the categories of mathematical communication, rigorous programming, and effective communication. According to Higher-Ed Researcher Robert Talbert, a learning objective must be "a clear, measurable action that a student should be able to do once the lesson is over" For the purposes of this site, these learning objectives are not for a specific lesson but rather an entire course for either an Allegheny College student or, for the duration of self-paced learning, all other emerging proactive programmers. Some of the objectives of the course are listed below.
 
-* Gain skill in understanding mathematical and logical concepts which overlap with concepts in Computer Science
-* To become knowledgeable with reading and writing intermediate programing
-* Gain skill in implementing mathematical thinking into the design of computer code
-* To gain experience in designing programs which apply mathematial theory for calculation  
+- Gain skill in understanding mathematical and logical concepts which overlap with concepts in Computer Science
+- To become knowledgeable with reading and writing intermediate programming
+- Gain skill in implementing mathematical thinking into the design of computer code
+- To gain experience in designing programs which apply mathematical theory for calculation  
 
 ## Textbooks
 
- + _Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math Featuring Python_ by Allan M. Stavely
- + _Doing Math with Python: Using Programming to Explore Algebra, Statistics, and More_ by Amit Saha
+- _Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math Featuring Python_ by Allan M. Stavely
+- _Doing Math with Python: Using Programming to Explore Algebra, Statistics, and More_ by Amit Saha
 
- + __Suggested Reading__: The below reading list is strongly recommended to improve students build technical writing skills and to gain a firm understanding in how to conduct responsible research in computer science.
+## Suggested Reading
+The below reading list is strongly recommended to improve students build technical writing skills and to gain a firm understanding in how to conduct responsible research in computer science.
 
-  + _BUGS in Writing: A Guide to Debugging Your Prose_. Lyn Dupre.
-  + _Writing for Computer Science_. Justin Zobel.
-  + _On Being a Scientist: A Guide to Responsible Conduct in Research_ (Third Edition)}. Committee on Science, Engineering, and Public Policy, National Academy of Sciences, National Academy of Engineering, and Institute of Medicine.
-  + Along with reading the required books, you will be asked to study many additional articles from a wide variety of conference proceedings, journals, and the popular press.
+- _BUGS in Writing: A Guide to Debugging Your Prose_. Lyn Dupre.
+- _Writing for Computer Science_. Justin Zobel.
+- _On Being a Scientist: A Guide to Responsible Conduct in Research_ (Third Edition)}. Committee on Science, Engineering, and Public Policy, National Academy of Sciences, National Academy of Engineering, and Institute of Medicine.
+- Along with reading the required books, you will be asked to study many additional articles from a wide variety of conference proceedings, journals, and the popular press.
 
 ## Policies
 
 ### Grading
 
-The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
-
-|Category              | Percentage | Assessment metric
-|:-------------------- | :--------- | :-----------------
-|Class Participation        | 5%    | check mark grade
-|Midterm Exam               | 10%   | letter grade
-|Final Project              | 15%   | letter grade
-|Source Code surveys        | 15%   | check mark grade
-|Programming Projects       | 15%   | check mark grade
-|Engineering Efforts        | 40%   | letter grade
-|Total                      | 100%       |
-
 #### Grading Scale
+
+=IF(DE6>94,"A",IF(DE6>90,"A-",IF(DE6>87,"B+",IF(DE6>83,"B",IF(DE6>80,"B-",IF(DE6>77,"C+",IF(DE6>73,"C",IF(DE6>70,"C-",IF(DE6>67,"D+",IF(DE6>60,"D","F"))))))))))
 
 |Letter| Range |Letter |Range |Letter|Range|
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
 |A            | 96 - 100   |A-           | 90 - 95.9  |
 |B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
 |C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
-|D+           | 67 - 69.9  |D            | 63 - 66.9  |F           | 59.9 and below  |
+|D+           | 67 - 69.9  |D            | 63 - 66.9  |F            | 59.9 and below  |
 
-### Definitions of Grading Categories
+#### Categories
 
- + __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.% and in the course's Slack channels.
+The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
 
- + __Exams__: The exams will cover all of the material in their associated module(s). The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, all students will be expected to take these exams on the scheduled date and complete the exams in the stated period of time.
+|Category              | Percentage | Assessment metric
+|:-------------------- | :--------- | :-----------------
+|Class Participation        | 20%   | check mark grade
+|Labs                       | 40%   | letter grade
+|Midterm Exam               | 20%   | letter grade
+|Final Project              | 20%   | letter grade
+|Total                      | 100%  |
 
- + __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated programming solution for a specific problem. Completion of the final project will require you to apply the knowledge, programming and technical skills that you have acquired during the course. The details for the final project will be given approximately a month before the project due date (during finals week).
+#### Definitions of Grading Categories
 
- + __Source Code Surveys__: Graded on a checkmark basis and building on material in the textbook and the content covered during that day's in-person classroom session, technical challenges have the following goals: (i) help a learner to demonstrate that they can remember learned material by recalling facts, basic concepts, and answers to questions presented in the textbook and (ii) allow a learner to demonstrate an understanding of facts and ideas by translating, interpreting, and stating the main technical ideas presented in the textbook.
+- __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.% and in the course's Slack channels.
 
- + __Programming Projects__: Graded on a checkmark basis and building on material in the textbook, the content covered during that week's in-person classroom session, and the weekly technical challenges, the programming projects further equip a learner to solve new problems in the field of discrete structures by applying — in a new way — their knowledge of the facts, techniques, and rules of discrete mathematics and rigorous Python programming.
+- __Exams__: The exams will cover all of the material in their associated module(s). The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, all students will be expected to take these exams on the scheduled date and complete the exams in the stated period of time.
 
- + __Engineering Efforts__: These assignments invite students to explore different techniques for rigorously designing, implementing, evaluating, and documenting real-world Python programs. These assignments will invite students to use tools like a text editor, a terminal window, and a modern Python development environment to implement functions that strike the right balance between understandability, generalizability, and specialization. Students will also use the data collected from running experiments to evaluate the implementation of a Python function as they consider, for instance, its efficiency and correctness.
+- __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated programming solution for a specific problem. Completion of the final project will require you to apply the knowledge, programming and technical skills that you have acquired during the course. The details for the final project will be given approximately a month before the project due date (during finals week).
+
+- __Activities__: These assignments invite students to explore different techniques for rigorously designing, implementing, programming, evaluating, and documenting real-world Python programs. These assignments will invite students to use tools like a text editor, a terminal window, and a modern Python development environment to implement functions that strike the right balance between understandability, generalizability, and specialization. Students will also use the data collected from running experiments to evaluate the implementation of a Python function as they consider, for instance, its efficiency and correctness. Knowledge gained from the class and the textbook will be integral to the completion of these projects.
 
 ### Assignment Submission
 
 Your class instructor will be using GitHub Classroom to collect all assignments. It is expected that you are able to effectively use `git` to submit your work. If you require help, please see your peers, the Technology Leaders, or your instructor.
 
 All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. The honor code (see below) is assumed for all submitted work.
-
-### Extensions
-
-Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a valid reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
-
-Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness  to your peers who are still able to complete their labs, regardless of their own busy schedules.
-
 
 ### Attendance
 
@@ -151,11 +143,10 @@ The submission of homework comprises the Honor Code pledge of the student(s) com
 
 If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
 
-
- +  [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
- +  [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
- +  [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
- +  [Student Life](https://sites.allegheny.edu/studentlife/)
+- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
 
 ### Communication
 
@@ -165,7 +156,7 @@ Additionally, the course website will be used to store the syllabus, course sche
 
 ### Gradebook Repository
 
- + [https://classroom.github.com/a/X0YnIQnZ](https://classroom.github.com/a/X0YnIQnZ)
+Grade will be diffused using GitHub. You will use a GitHub project link to access a document that the instructor will leave for you concerning your class grades. Please be sure to let the instructor know of any incorrect information in the grade book document.
 
 ### Bring your own computer to class
 
@@ -173,12 +164,12 @@ The classrooms in the Department of Computer Science no longer provide machines 
 
 During the semester, you will be told which software to install on your machine to be prepared for class. Some of the prominent software that we may be using include;
 
- + [Git and GiHub](https://github.com/): (a software development software system
- + [VSCode](https://code.visualstudio.com/download): (an editor)
- + [Docker](https://www.docker.com): a software container system
-  + [Installing Docker](https://docs.docker.com/get-docker/)
-  + [Basic tutorial from Docker](https://www.docker.com/101-tutorial)
-  + [Play with Docker](https://labs.play-with-docker.com/)
+- [Git and GiHub](https://github.com/): (a software development software system
+- [VSCode](https://code.visualstudio.com/download): (an editor)
+- [Docker](https://www.docker.com): a software container system
+- [Installing Docker](https://docs.docker.com/get-docker/)
+- [Basic tutorial from Docker](https://www.docker.com/101-tutorial)
+- [Play with Docker](https://labs.play-with-docker.com/)
 
 ### Special Needs and Disability Services
 
@@ -194,13 +185,13 @@ It is recognized that an important part of the learning process in any course, a
 
 More information about the code may be found at the [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/academic-honor-program/)
 
-### Welcome to Computer Science Research!
+### Welcome to Computer Science 102
 
 Types of computer hardware and software are everywhere! Conducting research in computer science is a challenging and rewarding activity that leads to the production of hardware, software, and scientific insights that have the potential to positively influence the lives of many people.  As you learn more about research methods in computer science you will also enhance your ability to effectively write and speak about a wide range of topics in computer science. I ask that you bring your best effort and highest enthusiasm as you pursue research in computer science this semester.
 
 ### Schedule
 
-Below is a **tentative** schedule of covered topics as we cover them, along with their associated activities.
+Below is a __tentative__ schedule of covered topics as we cover them, along with their associated activities.
 
 For Monday, Wednesday, Friday Meetings, we will be following the below calendar.
 
