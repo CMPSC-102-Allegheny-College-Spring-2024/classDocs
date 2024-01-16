@@ -42,11 +42,11 @@ Email: obonhamcarter@allegheny.edu
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#discrete-structures`. If not, then you will need to join the department's [Discord server](https://discord.gg/qUbTMjaq) before you can be added to the course's channel.
 
-<!-- 
 ### Calendar
-[Class calendar](https://calendar.google.com/calendar/u/0?cid=Y191ajU2Mm02Y3JtajdrcmI5ZTlybm5nZXUyY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_uj562m6crmj7krb9e9rnngeu2c%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+[Class calendar](https://calendar.google.com/calendar/u/0?cid=Y182ZmVkMGJmZjQ4MzM5YzFkNWZjYzU0YTFmOTUwODdiNWUwMGFiYjA5NjExNTRlNTQ2NWVmMGJjYTM1ODBlMmQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_6fed0bff48339c1d5fcc54a1f95087b5e00abb0961154e5465ef0bca3580e2d0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Course Deliverable
 
