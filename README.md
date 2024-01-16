@@ -17,7 +17,6 @@ This repository contains information about Discrete Structures, including the co
 - [Course Policies](#Policies)
 - [Grading](#Grading)
 - [Assistance](#Assistance)
-- [Schedule](#Schedule)
 
 ## Instructor
 
@@ -31,13 +30,13 @@ Email: obonhamcarter@allegheny.edu
 
 ## Meeting Times
 
-* M/W/F 10:00 AM - 10:50 AM
-* 16 Jan 2024 - 7 May 2024
-* Alden Hall, 101 Lecture
+- Alden Hall, 101 __Lecture__
+- M/W/F 10:00 AM - 10:50 AM
+- 16 Jan 2024 - 7 May 2024
 
-* M 2:30 PM - 4:20 PM
-* 16 Jan 2024 - 7 May 2024
-* Alden Hall, 101 Lab
+- Alden Hall, 101 __Lab__
+- M 2:30 PM - 4:20 PM
+- 16 Jan 2024 - 7 May 2024
 
 ### Discord
 
@@ -195,7 +194,6 @@ _I hereby recognize and pledge to fulfill my responsibilities, as defined in the
 It is recognized that an important part of the learning process in any course, and particularly one in computer science, derives from thoughtful discussions with teachers and fellow students.  Such dialogue is encouraged. However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others and the student who produces assignments that are identical to, or merely variations on, someone else's work.  While it is acceptable for students in this class to discuss their programs, technical diagrams, proposals, paper reviews, presentations, and other items with their classmates or other individuals, deliverables that are nearly identical to the work of others will be taken as evidence of violating the Honor Code.
 
 More information about the code may be found at the [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/academic-honor-program/)
-
 
 ### Welcome to Computer Science 102
 
