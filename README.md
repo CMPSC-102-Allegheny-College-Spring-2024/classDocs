@@ -185,7 +185,7 @@ Some of the resources on campus are listed below.
 
 ### Honor Code
 
-The Academic Honor Program that governs the entire academic program at Allegheny College is described in the Allegheny Course Catalogue.  The Honor Program applies to all work that is submitted for academic credit or to meet non-credit requirements for graduation at Allegheny College.  This includes all work assigned for this class (e.g., examinations, laboratory assignments, and the final project).  All students who have enrolled in the College will work under the Honor Program.  Each student who has matriculated at the College has acknowledged the following pledge:
+The Academic Honor Program that governs the entire academic program at Allegheny College is described in the Allegheny Course Catalogue.  The Honor Program applies to all work that is submitted for academic credit or to meet non-credit requirements for graduation at Allegheny College. This includes all work assigned for this class (e.g., examinations, laboratory assignments, and the final project).  All students who have enrolled in the College will work under the Honor Program.  Each student who has matriculated at the College has acknowledged the following pledge:
 
 _I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole._
 
