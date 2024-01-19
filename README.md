@@ -6,19 +6,33 @@ This repository contains information about Discrete Structures, including the co
 
 # Content
 
-- [SCHEDULE](#schedule)
-- [Instructor](#instructor)
-- [Meeting Times](#meeting-times)
-- [Discord](#discord)
-- [Course Description](#course-description)
-- [`classDocs/`](#classdocs)
-- [Deliverable](#deliverable)
-- [Course Description](#description)
-- [Learning Outcomes](#learning-outcomes)
-- [Textbooks](#textbooks)
-- [Course Policies](#policies)
-- [Grading](#grading)
-- [Assistance](#assistance)
+ -  [Schedule](#Schedule)
+ -  [Instructor](#instructor)
+ -  [Meeting Times](#meeting-times)
+ -  [Discord](#discord)
+ -  [Course Deliverable](#course-deliverable)
+ -  [Course Description](#course-description)
+ -  [Learning Outcomes](#learning-outcomes)
+ -  [Textbooks](#textbooks)
+ -  [Suggested Reading]
+ -  [Policies](#policies)
+ -  [Grading](#grading)
+ -  [Grading Scale](#grading-scale)
+ -  [Categories](#categories)
+ -  [Definitions of Grading Categories](#definitions-of-grading-categories)
+ -  [Attendance](#attendance)
+ -  [Assignment Submission](#assignment-submission)
+ -  [Late Submissions](#late-submissions)
+ -  [Extensions](#extensions)
+ -  [A note on extenuating circumstances](#a-note-on-extenuating-circumstances)
+ -  [Communication](#Communication)
+ -  [Bring your own computer to class](#bring-your-own-computer-to-class)
+ -  [Special Needs and Disability Services](#special-needs-and-disability-services)
+ -  [Honor Code](#honor-code)
+ -  [Welcome to Computer Science 102](#welcome-to-computer-science-102)
+ -  [Schedule](#Schedule)
+
+
 
 ## Instructor
 
@@ -66,9 +80,6 @@ Distribution Requirements: QR, SP
 - Correctly describe the properties of a given discrete structure and verify those properties through computational testing and/or mathematical proofs.
 - Implement, test, and evaluate a Python function that performs data analysis using one or more sets of textual, numerical, categorical, binary, or combined data.
 
-
-
-
 ## Textbooks
 
 - _Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math Featuring Python_ by Allan M. Stavely
@@ -103,21 +114,25 @@ The grade that a student receives in this class will be based on the following c
 
 |Category              | Percentage | Assessment metric
 |:-------------------- | :--------- | :-----------------
-|Class Participation        | 20%   | check mark grade
-|Labs                       | 40%   | letter grade
-|Midterm Exam               | 20%   | letter grade
-|Final Project              | 20%   | letter grade
-|Total                      | 100%  |
+|Class Participation and Activities | 20%   | check mark grade
+|Labs                               | 40%   | letter grade
+|Midterm Exam                       | 20%   | letter grade
+|Final Project                      | 20%   | letter grade
+|Total                              | 100%  |
 
 #### Definitions of Grading Categories
 
 - __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.% and in the course's Slack channels.
 
+- __Activities__: These assignments invite students to explore different techniques for rigorously designing, implementing, programming, evaluating, and documenting real-world Python programs. These assignments will invite students to use tools like a text editor, a terminal window, and a modern Python development environment to implement functions that strike the right balance between understandability, generalizability, and specialization. Students will also use the data collected from running experiments to evaluate the implementation of a Python function as they consider, for instance, its efficiency and correctness. Knowledge gained from the class and the textbook will be integral to the completion of these projects.
+
 - __Exams__: The exams will cover all of the material in their associated module(s). The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, all students will be expected to take these exams on the scheduled date and complete the exams in the stated period of time.
 
 - __Final Project__: This project will present you with an opportunity to design and implement a correct and carefully evaluated programming solution for a specific problem. Completion of the final project will require you to apply the knowledge, programming and technical skills that you have acquired during the course. The details for the final project will be given approximately a month before the project due date (during finals week).
 
-- __Activities__: These assignments invite students to explore different techniques for rigorously designing, implementing, programming, evaluating, and documenting real-world Python programs. These assignments will invite students to use tools like a text editor, a terminal window, and a modern Python development environment to implement functions that strike the right balance between understandability, generalizability, and specialization. Students will also use the data collected from running experiments to evaluate the implementation of a Python function as they consider, for instance, its efficiency and correctness. Knowledge gained from the class and the textbook will be integral to the completion of these projects.
+### Attendance
+
+It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
 
 ### Assignment Submission
 
@@ -125,28 +140,9 @@ Your class instructor will be using GitHub Classroom to collect all assignments.
 
 All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. The honor code (see below) is assumed for all submitted work.
 
-### Attendance
-
-It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
-
-### Extensions
-
-Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a __valid reason__ for your extension. This request must come before the due date of the lab and not on the due date. Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
-
-The submission of homework comprises the Honor Code pledge of the student(s) completing the work. For any assignment completed in a group, students must also turn in a one-page reflection that describes each group member's contribution to the submitted deliverables.  
-
-### A note on extenuating circumstances
-
-If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
-
-- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
-- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
-- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-- [Student Life](https://sites.allegheny.edu/studentlife/)
-
 ### Late Submissions
 
-All assignments will have a stated due date and a late deadline (the latest date that an assignment will be accepted -- up to a week after the deadline). The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
+All assignments will have a stated _due date_ and a _late deadline_ (the latest date that an assignment will be accepted -- up to a week after the deadline). The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
 
 __Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. After that time, the lab will not be accepted.__
 
@@ -157,6 +153,15 @@ __Please note, lab solutions will be discussed after the one week late submissio
 Unless special arrangements are made with the course instructor, __no assignments will be accepted after the late deadline.__ If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a _valid_ reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
 
 The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
+
+### A note on extenuating circumstances
+
+If you should find yourself in difficult circumstances that significantly interfere with your ability to prepare for this class and to complete assignments, please inform me immediately so that we can work something out together! Do not wait until the last day of class to ask for exceptions to what is stated in this syllabus. In such a situation, you may also find it helpful to contact one of the available resources on campus:
+
+- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
 
 ### Communication
 
