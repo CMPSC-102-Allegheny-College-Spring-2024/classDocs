@@ -1,22 +1,24 @@
 # Discrete Structures (CMPSC 102) Course Syllabus
 
+# Semester: Spring 2024
+
 This repository contains information about Discrete Structures, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
 # Content
 
-- [SCHEDULE](#Schedule)
-- [Instructor](#Instructor)
-- [Meeting Times](#Meeting-times)
-- [Discord](#Discord)
-- [Course Calendar](#Calendar)
-- [`classDocs/`](#Classdocs)
-- [Deliverable](#Deliverable)
-- [Course Description](#Description)
-- [Course Objectives](#course-objectives)
-- [Textbooks](#Textbooks)
-- [Course Policies](#Policies)
-- [Grading](#Grading)
-- [Assistance](#Assistance)
+- [SCHEDULE](#schedule)
+- [Instructor](#instructor)
+- [Meeting Times](#meeting-times)
+- [Discord](#discord)
+- [Course Description](#course-description)
+- [`classDocs/`](#classdocs)
+- [Deliverable](#deliverable)
+- [Course Description](#description)
+- [Learning Outcomes](#learning-outcomes)
+- [Textbooks](#textbooks)
+- [Course Policies](#policies)
+- [Grading](#grading)
+- [Assistance](#assistance)
 
 ## Instructor
 
@@ -42,14 +44,9 @@ Email: obonhamcarter@allegheny.edu
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#discrete-structures`. If not, then you will need to join the department's [Discord server](https://discord.gg/qUbTMjaq) before you can be added to the course's channel.
 
-### Calendar
-
-[Class calendar](https://calendar.google.com/calendar/embed?src=c_6fed0bff48339c1d5fcc54a1f95087b5e00abb0961154e5465ef0bca3580e2d0%40group.calendar.google.com&ctz=America%2FNew_York)
-
 ## Course Deliverable
 
  + Due: 6th May, 9:00am
- + Course code for final exam: "G"
 
 ## Course Description
 
@@ -61,14 +58,16 @@ Prerequisite: Knowledge of elementary algebra.
 
 Distribution Requirements: QR, SP
 
-## Course Objectives
+## Learning Outcomes
 
-Students of discrete structures should demonstrate the mastery of these learning objectives in the categories of mathematical communication, rigorous programming, and effective communication. According to Higher-Ed Researcher Robert Talbert, a learning objective must be "a clear, measurable action that a student should be able to do once the lesson is over" For the purposes of this site, these learning objectives are not for a specific lesson but rather an entire course for either an Allegheny College student or, for the duration of self-paced learning, all other emerging proactive programmers. Some of the objectives of the course are listed below.
+- Justify the decision to select a suitable discrete structure for use when solving a problem with a computer program.
+- Connect mathematical definitions, notations, and concepts of discrete structures to their computational representation by writing correct and efficient Python programs.
+- Use the computational constructs of the Python programming language to perform mathematical operations.
+- Correctly describe the properties of a given discrete structure and verify those properties through computational testing and/or mathematical proofs.
+- Implement, test, and evaluate a Python function that performs data analysis using one or more sets of textual, numerical, categorical, binary, or combined data.
 
-- Gain skill in understanding mathematical and logical concepts which overlap with concepts in Computer Science
-- To become knowledgeable with reading and writing intermediate programming
-- Gain skill in implementing mathematical thinking into the design of computer code
-- To gain experience in designing programs which apply mathematical theory for calculation  
+
+
 
 ## Textbooks
 
