@@ -15,7 +15,6 @@ This repository contains information about Discrete Structures, including the co
  -  [Learning Outcomes](#learning-outcomes)
  -  [Textbooks](#textbooks)
  -  [Suggested Reading](#suggested-reading)
- -  [Policies](#policies)
  -  [Grading](#grading)
  -  [Grading Scale](#grading-scale)
  -  [Categories](#categories)
