@@ -131,7 +131,7 @@ The grade that a student receives in this class will be based on the following c
 
 ### Attendance
 
-It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
+It is mandatory for all students to attend the class and laboratory sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five (5) unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
 
 ### Assignment Submission
 
@@ -210,7 +210,7 @@ Week # | Dates   | Topic |
 ---------------- | ---- | --- |
 1 | Wed, 17 Jan      | Welcome, [Survey](https://forms.gle/QivUgQLfjRALB1dm7)  |
 1 | Fri, 19 Jan      | Syllabus, [Activity01](https://classroom.github.com/a/wETwKGDF) |
-2 | 22 Jan - 26      | The Math in Programming, simple coding, [Lab01](https://classroom.github.com/a/fvg-kTeK)     |
+2 | 22 Jan - 26      | The Math in Programming, simple coding, [Lab01](https://classroom.github.com/a/fvg-kTeK), [activity02](https://classroom.github.com/a/J4jMvd5U)     |
 3 | 29 Jan - 2 Feb   |      |
 4 | 5 - 9 Feb        |      |
 5 | 12 - 16 Feb      |      |
