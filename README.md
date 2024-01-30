@@ -12,7 +12,7 @@ This repository contains information about Discrete Structures, including the co
  -  [Discord](#discord)
  -  [Course Deliverable](#course-deliverable)
  -  [Course Description](#course-description)
- -  [Distribution Requirements](#distribution_requirements)
+ -  [Distribution Requirements](#distribution-requirements)
  -  [Learning Outcomes](#learning-outcomes)
  -  [Textbooks](#textbooks)
  -  [Suggested Reading](#suggested-reading)
