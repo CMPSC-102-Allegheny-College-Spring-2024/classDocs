@@ -12,6 +12,7 @@ This repository contains information about Discrete Structures, including the co
  -  [Discord](#discord)
  -  [Course Deliverable](#course-deliverable)
  -  [Course Description](#course-description)
+ -  [Distribution Requirements](#distribution_requirements)
  -  [Learning Outcomes](#learning-outcomes)
  -  [Textbooks](#textbooks)
  -  [Suggested Reading](#suggested-reading)
@@ -69,7 +70,13 @@ An introduction to the foundations of computer science with an emphasis on under
 
 Prerequisite: Knowledge of elementary algebra.
 
-Distribution Requirements: QR, SP
+## Distribution Requirements
+
++ __Quantitative Reasoning__ (QR). Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
+Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
+
++ __Scientific Process & Knowledge__ (SP). Courses involving Scientific Process & Knowledge aim to convey an understanding of what is known or can be known about the natural world; apply scientific reasoning towards the analysis and synthesis of scientific information; and create scientifically literate citizens who can engage productively in problem solving.
+Learning Outcome: Students who successfully complete this requirement will demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
 
 ## Learning Outcomes
 
