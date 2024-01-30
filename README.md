@@ -32,8 +32,6 @@ This repository contains information about Discrete Structures, including the co
  -  [Welcome to Computer Science 102](#welcome-to-computer-science-102)
  -  [Schedule](#Schedule)
 
-
-
 ## Instructor
 
 Dr. Oliver Bonham-Carter  (Note: said and written as __Bonham-Carter__, not _Carter_)
