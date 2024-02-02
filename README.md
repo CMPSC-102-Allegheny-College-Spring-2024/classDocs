@@ -214,9 +214,9 @@ For Monday, Wednesday, Friday Meetings, we will be following the below calendar.
 Week # | Dates   | Topic |
 ---------------- | ---- | --- |
 1 | Wed, 17 Jan      | Welcome, [Survey](https://forms.gle/QivUgQLfjRALB1dm7)  |
-1 | Fri, 19 Jan      | Syllabus, [Activity01](https://classroom.github.com/a/wETwKGDF) |
-2 | 22 Jan - 26      | The Math in Programming, simple coding, [Lab01](https://classroom.github.com/a/fvg-kTeK), [Activity02](https://classroom.github.com/a/J4jMvd5U)     |
-3 | 29 Jan - 2 Feb   |  Iteration and programming constructs, [Lab02](https://classroom.github.com/a/sOxUgO83) |
+1 | Fri, 19 Jan      | Syllabus, [Activity01](https://classroom.github.com/a/wETwKGDF) due at end of class|
+2 | 22 Jan - 26      | The Math in Programming, simple coding, [Lab01](https://classroom.github.com/a/fvg-kTeK), [Activity02](https://classroom.github.com/a/J4jMvd5U) due at end of class    |
+3 | 29 Jan - 2 Feb   |  Iteration and programming constructs, [Lab02](https://classroom.github.com/a/sOxUgO83), Approximation, [Activity03](https://classroom.github.com/a/W896IRHP) due at end of class |
 4 | 5 - 9 Feb        |      |
 5 | 12 - 16 Feb      |      |
 6 | 19 - 23 Feb      |      |
