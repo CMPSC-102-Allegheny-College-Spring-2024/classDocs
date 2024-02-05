@@ -101,6 +101,8 @@ The below reading list is strongly recommended to improve students build technic
 
 ### Grading
 
+Use your [Gradebook Repository](https://classroom.github.com/a/a0KQdhxE) to receive updates from the instructor. The repository is only for receiving reports -- you will never have to post to this repository.
+
 #### Grading Scale
 
 <!-- =IF(DE6>94,"A",IF(DE6>90,"A-",IF(DE6>87,"B+",IF(DE6>83,"B",IF(DE6>80,"B-",IF(DE6>77,"C+",IF(DE6>73,"C",IF(DE6>70,"C-",IF(DE6>67,"D+",IF(DE6>60,"D","F")))))))))) -->
