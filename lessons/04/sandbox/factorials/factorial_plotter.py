@@ -15,7 +15,7 @@ print("x,factorial(x)")
 for i in range(len(x_list)):
 	print(f"{x_list[i]},{factorials_list[i]}")
 
-% formatting data
+# formatting data
 for i in range(len(x_list)):
 	xvalue_int = x_list[i]
 	fvalue_int = factorials_list[i]
