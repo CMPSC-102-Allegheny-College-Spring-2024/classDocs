@@ -222,7 +222,7 @@ Week # | Dates   | Topic |
 3 | 29 Jan - 2 Feb   |  Iteration and programming constructs, [Lab02](https://classroom.github.com/a/sOxUgO83), Approximation, [Activity03](https://classroom.github.com/a/W896IRHP) due at end of class |
 4 | 5 - 9 Feb        |  Setting up and utilizing virtual programming environments: _Python Venv_ and _Poetry_ [Lab03](https://classroom.github.com/a/-kgX9G2R), High order functions, [Activity04](https://classroom.github.com/a/SR_mBGNy) due at the end of class  |
 5 | 12 - 16 Feb      |  Data Containers, Iterative Exponentiation,[Lab04](https://classroom.github.com/a/BSvmciix), [Activity05](https://classroom.github.com/a/qX2z1FAl)|
-6 | 19 - 23 Feb      |      |
+6 | 19 - 23 Feb      |   The fascinating world of monoids! [Lab05](https://classroom.github.com/a/bgrUebL0)   |
 7 | 26 - 1 Mar       |      |
 8 | SPRING-BREAK     |      |
 9 | 11 - 15 Mar      |      |
