@@ -225,7 +225,7 @@ Week # | Dates   | Topic |
 6 | 19 - 23 Feb      |   The fascinating world of monoids! [Lab05](https://classroom.github.com/a/bgrUebL0) [Activity06](https://classroom.github.com/a/Cfd1REnp)  |
 7 | 26 - 1 Mar       |  Sets and applications. Yey! [Lab06](https://classroom.github.com/a/UgvHt28m), Sets and lists applied to the Collatz Conjecture. [Activity07](https://classroom.github.com/a/cv4rPxF0)   |
 8 | SPRING-BREAK     |      |
-9 | 11 - 15 Mar      |      |
+9 | 11 - 15 Mar      | Set operations with probabilities, [Activity08](https://classroom.github.com/a/Og4rhJYu)     |
 10 | 18 - 22 Mar     |      |
 11 | 25 - 29 Mar     |      |
 12 | 1 - 5 Apr       |      |
