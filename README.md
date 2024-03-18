@@ -226,7 +226,7 @@ Week # | Dates   | Topic |
 7 | 26 - 1 Mar       |  Sets and applications. Yey! [Lab06](https://classroom.github.com/a/UgvHt28m), Sets and lists applied to the Collatz Conjecture. [Activity07](https://classroom.github.com/a/cv4rPxF0)   |
 8 | SPRING-BREAK     |      |
 9 | 11 - 15 Mar      | Set operations with probabilities, [Activity08](https://classroom.github.com/a/Og4rhJYu)     |
-10 | 18 - 22 Mar     |      |
+10 | 18 - 22 Mar     |   (MidTerm)[https://classroom.github.com/a/mqCSQ2My) Due 18th March 2024 at 5:30pm   |
 11 | 25 - 29 Mar     |      |
 12 | 1 - 5 Apr       |      |
 13 | 8 - 12 Apr      |      |
