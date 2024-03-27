@@ -227,7 +227,7 @@ Week # | Dates   | Topic |
 8 | SPRING-BREAK     |      |
 9 | 11 - 15 Mar      | Set operations with probabilities, [Activity08](https://classroom.github.com/a/Og4rhJYu)     |
 10 | 18 - 22 Mar     |   [MidTerm](https://classroom.github.com/a/mqCSQ2My) Due 18th March 2024 at 5:30pm, Basic visualizing with the Matplotlib plotting library, [Activity09](https://classroom.github.com/a/q3tbZsrg) |
-11 | 25 - 29 Mar     | Statistical explorations, [Lab07](https://classroom.github.com/a/d-w6sX_w)     |
+11 | 25 - 29 Mar     | Statistical explorations, [Lab07](https://classroom.github.com/a/d-w6sX_w), [Statistical Idea Presentations (Activity 10)](https://docs.google.com/presentation/d/17JUL9QRBftcDSksQR2nC4y3je5f69nZD44blbQtzqOQ/edit?usp=sharing)     |
 12 | 1 - 5 Apr       |      |
 13 | 8 - 12 Apr      |      |
 14 | 15 - 19 Apr     |      |
