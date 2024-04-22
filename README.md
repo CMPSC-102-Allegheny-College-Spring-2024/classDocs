@@ -232,4 +232,4 @@ Week # | Dates   | Topic |
 13 | 8 - 12 Apr      |  **Do not click on the following link until you have found two other group members!** [Group Final Project](https://classroom.github.com/a/jAjVCo5a), Due on **9:00 am on Monday, May 6th, 2024** (Firm deadline: No extensions are possible), [Activity 11](https://forms.gle/D1NYeGLKZ4ScNE9Y8)|
 14 | 15 - 19 Apr     |   Project work week, no lab.   |
 15 | 22 - 26 Apr     |      |
-16 | No class        |      |
+16 |Monday, 29 April | Presentations for the Final Project     |
