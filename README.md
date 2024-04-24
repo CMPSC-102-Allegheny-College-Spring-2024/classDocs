@@ -231,5 +231,5 @@ Week # | Dates   | Topic |
 12 | 1 - 5 Apr       | Describing data with fundamental statistics: Quantiles and Correlation, [Lab08 Group Assignment](https://classroom.github.com/a/QGFcjw42) Note: One person in your group is to make the group's name and then the other person is to join the group by the created name. Statistical Applications: Basic Machine learning [Tutorials](https://www.w3schools.com/python/python_ml_getting_started.asp) Note: Please save your notes from your work to assist you on Friday's activity. [Activity10](https://classroom.github.com/a/BT-LDXvJ), due at 11 on 5th April.|
 13 | 8 - 12 Apr      |  **Do not click on the following link until you have found two other group members!** [Group Final Project](https://classroom.github.com/a/jAjVCo5a), Due on **9:00 am on Monday, May 6th, 2024** (Firm deadline: No extensions are possible), [Activity 11](https://forms.gle/D1NYeGLKZ4ScNE9Y8)|
 14 | 15 - 19 Apr     |   Project work week, no lab.   |
-15 | 22 - 26 Apr     |  [Activity 12](https://classroom.github.com/a/IZBo_iVz)    |
+15 | 22 - 26 Apr     |  [Activity 12](https://classroom.github.com/a/IZBo_iVz), Course Learning Objectives Survey [Activity 13](https://docs.google.com/forms/d/e/1FAIpQLScBndmcLCe9hcY5mDGOJKkY578Y4YELDV4dLEiHQTEaWu3APQ/viewform?usp=sf_link)    |
 16 |Monday, 29 April | Presentations for the Final Project     |
