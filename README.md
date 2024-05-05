@@ -147,6 +147,15 @@ Your class instructor will be using GitHub Classroom to collect all assignments.
 
 All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. The honor code (see below) is assumed for all submitted work.
 
+_Submission Commands_
+
+```
+git add -A
+git commit -m "commit message"
+git push
+```
+Please do not forget to use the above git commands to push your work to the cloud for the instructor to grade your assignment. You can go to your GitHub repository using your browser to verify that your files have been submitted. Please see the TL’s or the instructor if you have any questions about assignment submission.
+
 ### Late Submissions
 
 All assignments will have a stated _due date_ and a _late deadline_ (the latest date that an assignment will be accepted -- up to a week after the deadline). The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
