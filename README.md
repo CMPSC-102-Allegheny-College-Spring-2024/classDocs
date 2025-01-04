@@ -1,6 +1,6 @@
 # Discrete Structures (CMPSC 102) Course Syllabus
 
-# Semester: Spring 2025
+# Semester: Spring 2024
 
 This repository contains information about Discrete Structures, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
